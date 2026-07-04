@@ -1,6 +1,6 @@
-# Claude Code Skills
+# Peak Claude Code Skills
 
-Reusable coding-agent skills for production app work. Each skill focuses on transferable rules, guardrails, workflows, and validation gates instead of project-specific prompt boilerplate.
+Battle-tested coding-agent skills for production app work. Each skill focuses on transferable rules, guardrails, workflows, and validation gates instead of project-specific prompt boilerplate.
 
 ## Skills
 
@@ -19,9 +19,9 @@ Reusable coding-agent skills for production app work. Each skill focuses on tran
 Install all skills:
 
 ```bash
-git clone https://github.com/asifdotdev/claude-code-skills.git
+git clone https://github.com/asifdotdev/peak-claude-code-skills.git
 mkdir -p ~/.codex/skills
-cp -R claude-code-skills/skills/* ~/.codex/skills/
+cp -R peak-claude-code-skills/skills/* ~/.codex/skills/
 ```
 
 Install one skill:
