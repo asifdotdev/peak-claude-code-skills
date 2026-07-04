@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Integration Wiring"
+  short_description: "Wire completed APIs into frontend apps"
+  default_prompt: "Use $api-integration-wiring to connect this backend API to the existing frontend."

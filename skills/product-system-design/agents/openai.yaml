@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product System Design"
+  short_description: "Generate backend contracts from requirements"
+  default_prompt: "Use $product-system-design to create a product analysis and backend contract for this app."

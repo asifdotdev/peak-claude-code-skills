@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Native UI from Figma"
+  short_description: "Build React Native screens from Figma"
+  default_prompt: "Use $react-native-ui-from-figma to implement this React Native screen from Figma."

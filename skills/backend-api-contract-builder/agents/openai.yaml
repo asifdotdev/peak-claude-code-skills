@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend API Contract Builder"
+  short_description: "Build backend APIs from contracts and rules"
+  default_prompt: "Use $backend-api-contract-builder to implement this backend API from the provided contract."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Page Builder"
+  short_description: "Build production pages from Figma"
+  default_prompt: "Use $figma-page-builder to build this page from Figma for the target app."

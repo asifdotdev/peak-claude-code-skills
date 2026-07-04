@@ -1,0 +1,4 @@
+interface:
+  display_name: "Appium Flow QA"
+  short_description: "QA mobile screens and journeys with Appium"
+  default_prompt: "Use $appium-flow-qa to test the key screens and user journeys in this mobile app."

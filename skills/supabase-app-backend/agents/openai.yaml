@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supabase App Backend"
+  short_description: "Build Supabase backends and app stitching"
+  default_prompt: "Use $supabase-app-backend to build this Supabase backend and connect it to the existing app."
